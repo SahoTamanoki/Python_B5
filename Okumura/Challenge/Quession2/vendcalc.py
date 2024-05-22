@@ -1,3 +1,4 @@
+
 def judge_money(money):
     while True:
         global error_money
