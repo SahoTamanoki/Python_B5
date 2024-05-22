@@ -1,4 +1,3 @@
-# a
 import sys
 args =sys.argv
 rank = int(args[1])
